@@ -21,3 +21,8 @@ Aprender a registrar la evolución de un proyecto utilizando Git.
 
 El proyecto se encuentra en desarrollo.
 - Nueva linea
+
+# Laboratorio de historial
+
+Este repositorio será utilizado para practicar la consulta
+y análisis del historial de Git.
