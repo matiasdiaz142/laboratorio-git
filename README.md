@@ -43,3 +43,9 @@ Aprender a consultar y entender el historial de un repositorio.
 El laboratorio se encuentra en desarrollo.
 
 - Nueva instruccion
+
+## Aprendizajes
+
+- Diferencia entre Git y GitHub.
+- Repositorio local y remoto.
+- Publicación de commits.
