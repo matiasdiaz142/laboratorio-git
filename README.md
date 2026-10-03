@@ -40,3 +40,5 @@ Aprender a consultar y entender el historial de un repositorio.
 ## Estado
 
 El laboratorio se encuentra en desarrollo.
+
+- Nueva instruccion
