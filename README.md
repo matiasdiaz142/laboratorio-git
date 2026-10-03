@@ -36,3 +36,7 @@ Aprender a consultar y comprender el historial de un repositorio.
 - Commits
 - Historial
 - Identificación de cambios
+
+## Estado
+
+El laboratorio se encuentra en desarrollo.
