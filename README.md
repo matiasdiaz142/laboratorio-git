@@ -20,7 +20,8 @@ Aprender a registrar la evolución de un proyecto utilizando Git.
 ## Estado
 
 El proyecto se encuentra en desarrollo.
-- Nueva linea
+Repositorio utilizado para practicar la comunicación
+entre Git y GitHub.
 
 # Laboratorio de historial
 
